@@ -11,6 +11,6 @@ open:
 	open http://localhost:4000/
 
 publish: build
-	cp -rf main/site/* docs/
+	cp -rf main/_site/* docs/
 
 .PHONY: server build watch open publish
