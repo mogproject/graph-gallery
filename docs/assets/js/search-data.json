@@ -7,44 +7,98 @@
   },"1": {
     "doc": "n=0",
     "title": "n=0",
+    "content": "## Venn Diagram for 0 Sets - [High resolution image][hi-res-n0]{:target=\"_blank\"} - Low resolution image ![lo-res-n0][lo-res-n0] [hi-res-n0]: https://github.com/mogproject/graph-gallery/wiki/img/VennDiagram0.png [lo-res-n0]: https://github.com/mogproject/graph-gallery/wiki/img/VennDiagram0_s.png ",
+    "url": "/docs/venn/n0.html",
+    "relUrl": "/docs/venn/n0.html"
+  },"2": {
+    "doc": "n=0",
+    "title": "n=0",
     "content": "## Simple Graphs with 0 Vertices (1 graph) - [High resolution image][hi-res-n0]{:target=\"_blank\"} - Low resolution image ![lo-res-n0][lo-res-n0] [hi-res-n0]: https://github.com/mogproject/graph-gallery/wiki/img/SimpleGraphsN0.png [lo-res-n0]: https://github.com/mogproject/graph-gallery/wiki/img/SimpleGraphsN0_s.png ",
     "url": "/docs/small/n0.html",
     "relUrl": "/docs/small/n0.html"
-  },"2": {
+  },"3": {
+    "doc": "n=1",
+    "title": "n=1",
+    "content": "## Venn Diagram for 1 Set - [High resolution image][hi-res-n1]{:target=\"_blank\"} - Low resolution image ![lo-res-n1][lo-res-n1] [hi-res-n1]: https://github.com/mogproject/graph-gallery/wiki/img/VennDiagram1.png [lo-res-n1]: https://github.com/mogproject/graph-gallery/wiki/img/VennDiagram1_s.png ",
+    "url": "/docs/venn/n1.html",
+    "relUrl": "/docs/venn/n1.html"
+  },"4": {
     "doc": "n=1",
     "title": "n=1",
     "content": "## Simple Graphs with 1 Vertex (1 graph) - [High resolution image][hi-res-n1]{:target=\"_blank\"} - Low resolution image ![lo-res-n1][lo-res-n1] [hi-res-n1]: https://github.com/mogproject/graph-gallery/wiki/img/SimpleGraphsN1.png [lo-res-n1]: https://github.com/mogproject/graph-gallery/wiki/img/SimpleGraphsN1_s.png ",
     "url": "/docs/small/n1.html",
     "relUrl": "/docs/small/n1.html"
-  },"3": {
+  },"5": {
+    "doc": "n=2",
+    "title": "n=2",
+    "content": "## Venn Diagram for 2 Sets - [High resolution image][hi-res-n2]{:target=\"_blank\"} - Low resolution image ![lo-res-n2][lo-res-n2] [hi-res-n2]: https://github.com/mogproject/graph-gallery/wiki/img/VennDiagram2.png [lo-res-n2]: https://github.com/mogproject/graph-gallery/wiki/img/VennDiagram2_s.png ",
+    "url": "/docs/venn/n2.html",
+    "relUrl": "/docs/venn/n2.html"
+  },"6": {
     "doc": "n=2",
     "title": "n=2",
     "content": "## Simple Graphs with 2 Vertex (2 graphs) - [High resolution image][hi-res-n2]{:target=\"_blank\"} - Low resolution image ![lo-res-n2][lo-res-n2] [hi-res-n2]: https://github.com/mogproject/graph-gallery/wiki/img/SimpleGraphsN2.png [lo-res-n2]: https://github.com/mogproject/graph-gallery/wiki/img/SimpleGraphsN2_s.png ",
     "url": "/docs/small/n2.html",
     "relUrl": "/docs/small/n2.html"
-  },"4": {
+  },"7": {
+    "doc": "n=3",
+    "title": "n=3",
+    "content": "## Venn Diagram for 3 Sets - [High resolution image][hi-res-n3]{:target=\"_blank\"} - Low resolution image ![lo-res-n3][lo-res-n3] [hi-res-n3]: https://github.com/mogproject/graph-gallery/wiki/img/VennDiagram3.png [lo-res-n3]: https://github.com/mogproject/graph-gallery/wiki/img/VennDiagram3_s.png ",
+    "url": "/docs/venn/n3.html",
+    "relUrl": "/docs/venn/n3.html"
+  },"8": {
     "doc": "n=3",
     "title": "n=3",
     "content": "## Simple Graphs with 3 Vertex (4 graphs) - [High resolution image][hi-res-n3]{:target=\"_blank\"} - Low resolution image ![lo-res-n3][lo-res-n3] [hi-res-n3]: https://github.com/mogproject/graph-gallery/wiki/img/SimpleGraphsN3.png [lo-res-n3]: https://github.com/mogproject/graph-gallery/wiki/img/SimpleGraphsN3_s.png ",
     "url": "/docs/small/n3.html",
     "relUrl": "/docs/small/n3.html"
-  },"5": {
+  },"9": {
+    "doc": "n=4",
+    "title": "n=4",
+    "content": "## Venn Diagram for 4 Sets - [High resolution image][hi-res-n4]{:target=\"_blank\"} - Low resolution image ![lo-res-n4][lo-res-n4] [hi-res-n4]: https://github.com/mogproject/graph-gallery/wiki/img/VennDiagram4.png [lo-res-n4]: https://github.com/mogproject/graph-gallery/wiki/img/VennDiagram4_s.png ",
+    "url": "/docs/venn/n4.html",
+    "relUrl": "/docs/venn/n4.html"
+  },"10": {
     "doc": "n=4",
     "title": "n=4",
     "content": "## Simple Graphs with 4 Vertex (11 graphs) - [High resolution image][hi-res-n4]{:target=\"_blank\"} - Low resolution image ![lo-res-n4][lo-res-n4] [hi-res-n4]: https://github.com/mogproject/graph-gallery/wiki/img/SimpleGraphsN4.png [lo-res-n4]: https://github.com/mogproject/graph-gallery/wiki/img/SimpleGraphsN4_s.png ",
     "url": "/docs/small/n4.html",
     "relUrl": "/docs/small/n4.html"
-  },"6": {
+  },"11": {
     "doc": "n=5",
     "title": "n=5",
     "content": "## Simple Graphs with 5 Vertex (34 graphs) - [High resolution image][hi-res-n5]{:target=\"_blank\"} - Low resolution image ![lo-res-n5][lo-res-n5] [hi-res-n5]: https://github.com/mogproject/graph-gallery/wiki/img/SimpleGraphsN5.png [lo-res-n5]: https://github.com/mogproject/graph-gallery/wiki/img/SimpleGraphsN5_s.png ",
     "url": "/docs/small/n5.html",
     "relUrl": "/docs/small/n5.html"
-  },"7": {
+  },"12": {
+    "doc": "n=5",
+    "title": "n=5",
+    "content": "## Venn Diagram for 5 Sets - [High resolution image][hi-res-n5]{:target=\"_blank\"} - Low resolution image ![lo-res-n5][lo-res-n5] [hi-res-n5]: https://github.com/mogproject/graph-gallery/wiki/img/VennDiagram5.png [lo-res-n5]: https://github.com/mogproject/graph-gallery/wiki/img/VennDiagram5_s.png ",
+    "url": "/docs/venn/n5.html",
+    "relUrl": "/docs/venn/n5.html"
+  },"13": {
+    "doc": "n=6",
+    "title": "n=6",
+    "content": "## Venn Diagram for 6 Sets - [High resolution image][hi-res-n6]{:target=\"_blank\"} - Low resolution image ![lo-res-n6][lo-res-n6] [hi-res-n6]: https://github.com/mogproject/graph-gallery/wiki/img/VennDiagram6.png [lo-res-n6]: https://github.com/mogproject/graph-gallery/wiki/img/VennDiagram6_s.png ",
+    "url": "/docs/venn/n6.html",
+    "relUrl": "/docs/venn/n6.html"
+  },"14": {
+    "doc": "n=7",
+    "title": "n=7",
+    "content": "## Venn Diagram for 7 Sets - [High resolution image][hi-res-n7]{:target=\"_blank\"} - Low resolution image ![lo-res-n7][lo-res-n7] [hi-res-n7]: https://github.com/mogproject/graph-gallery/wiki/img/VennDiagram7.png [lo-res-n7]: https://github.com/mogproject/graph-gallery/wiki/img/VennDiagram7_s.png ",
+    "url": "/docs/venn/n7.html",
+    "relUrl": "/docs/venn/n7.html"
+  },"15": {
     "doc": "Small Graphs",
     "title": "Small Graphs",
     "content": "# Small Graphs Here we have visualizations of all non-isomorphic simple graphs with $$n \\leq 5$$ vertices, with a special focus on edge editing. Cluster graphsーa disjoint union of complete graphsーare highlighted so that we can easily trace cluster editing. It also includes a table of basic graph invariants such as radius and the chromatic number. ",
     "url": "/small",
     "relUrl": "/small"
+  },"16": {
+    "doc": "Venn Diagrams",
+    "title": "Venn Diagrams",
+    "content": "# Venn Diagrams A Venn diagram, popularized by John Venn in the 1880s, represents the logical relation between a finite number of sets. Here we show one way of drawing Venn diagrams, extending to higher numbers of sets up to $$n = 7$$. We design our diagrams not to make any region too small, which tends to happen in [Edwards–Venn diagrams][wiki]{:target=\"_blank\"}. [wiki]: https://en.wikipedia.org/wiki/Venn_diagram ",
+    "url": "/venn",
+    "relUrl": "/venn"
   }
 }

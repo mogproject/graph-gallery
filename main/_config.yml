@@ -24,7 +24,7 @@ mathjax:
   #     image: true
 
 color_scheme: gg
-footer_content: "&copy; 2021 <a href=\"https://mogproject.com\" target=\"_blank\">mogproject</a>. All rights reserved."
+footer_content: "&copy; 2021-2022 <a href=\"https://mogproject.com\" target=\"_blank\">mogproject</a>. All rights reserved."
 
 
 # Exclude from processing.
