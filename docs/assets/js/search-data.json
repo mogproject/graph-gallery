@@ -37,7 +37,7 @@
   },"6": {
     "doc": "n=2",
     "title": "n=2",
-    "content": "## Simple Graphs with 2 Vertex (2 graphs) - [High resolution image][hi-res-n2]{:target=\"_blank\"} - Low resolution image ![lo-res-n2][lo-res-n2] [hi-res-n2]: https://github.com/mogproject/graph-gallery/wiki/img/SimpleGraphsN2.png [lo-res-n2]: https://github.com/mogproject/graph-gallery/wiki/img/SimpleGraphsN2_s.png ",
+    "content": "## Simple Graphs with 2 Vertices (2 graphs) - [High resolution image][hi-res-n2]{:target=\"_blank\"} - Low resolution image ![lo-res-n2][lo-res-n2] [hi-res-n2]: https://github.com/mogproject/graph-gallery/wiki/img/SimpleGraphsN2.png [lo-res-n2]: https://github.com/mogproject/graph-gallery/wiki/img/SimpleGraphsN2_s.png ",
     "url": "/docs/small/n2.html",
     "relUrl": "/docs/small/n2.html"
   },"7": {
@@ -49,7 +49,7 @@
   },"8": {
     "doc": "n=3",
     "title": "n=3",
-    "content": "## Simple Graphs with 3 Vertex (4 graphs) - [High resolution image][hi-res-n3]{:target=\"_blank\"} - Low resolution image ![lo-res-n3][lo-res-n3] [hi-res-n3]: https://github.com/mogproject/graph-gallery/wiki/img/SimpleGraphsN3.png [lo-res-n3]: https://github.com/mogproject/graph-gallery/wiki/img/SimpleGraphsN3_s.png ",
+    "content": "## Simple Graphs with 3 Vertices (4 graphs) - [High resolution image][hi-res-n3]{:target=\"_blank\"} - Low resolution image ![lo-res-n3][lo-res-n3] [hi-res-n3]: https://github.com/mogproject/graph-gallery/wiki/img/SimpleGraphsN3.png [lo-res-n3]: https://github.com/mogproject/graph-gallery/wiki/img/SimpleGraphsN3_s.png ",
     "url": "/docs/small/n3.html",
     "relUrl": "/docs/small/n3.html"
   },"9": {
@@ -61,13 +61,13 @@
   },"10": {
     "doc": "n=4",
     "title": "n=4",
-    "content": "## Simple Graphs with 4 Vertex (11 graphs) - [High resolution image][hi-res-n4]{:target=\"_blank\"} - Low resolution image ![lo-res-n4][lo-res-n4] [hi-res-n4]: https://github.com/mogproject/graph-gallery/wiki/img/SimpleGraphsN4.png [lo-res-n4]: https://github.com/mogproject/graph-gallery/wiki/img/SimpleGraphsN4_s.png ",
+    "content": "## Simple Graphs with 4 Vertices (11 graphs) - [High resolution image][hi-res-n4]{:target=\"_blank\"} - Low resolution image ![lo-res-n4][lo-res-n4] [hi-res-n4]: https://github.com/mogproject/graph-gallery/wiki/img/SimpleGraphsN4.png [lo-res-n4]: https://github.com/mogproject/graph-gallery/wiki/img/SimpleGraphsN4_s.png ",
     "url": "/docs/small/n4.html",
     "relUrl": "/docs/small/n4.html"
   },"11": {
     "doc": "n=5",
     "title": "n=5",
-    "content": "## Simple Graphs with 5 Vertex (34 graphs) - [High resolution image][hi-res-n5]{:target=\"_blank\"} - Low resolution image ![lo-res-n5][lo-res-n5] [hi-res-n5]: https://github.com/mogproject/graph-gallery/wiki/img/SimpleGraphsN5.png [lo-res-n5]: https://github.com/mogproject/graph-gallery/wiki/img/SimpleGraphsN5_s.png ",
+    "content": "## Simple Graphs with 5 Vertices (34 graphs) - [High resolution image][hi-res-n5]{:target=\"_blank\"} - Low resolution image ![lo-res-n5][lo-res-n5] [hi-res-n5]: https://github.com/mogproject/graph-gallery/wiki/img/SimpleGraphsN5.png [lo-res-n5]: https://github.com/mogproject/graph-gallery/wiki/img/SimpleGraphsN5_s.png ",
     "url": "/docs/small/n5.html",
     "relUrl": "/docs/small/n5.html"
   },"12": {
