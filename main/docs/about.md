@@ -29,5 +29,5 @@ Thank you for your generous support!
 
 I thank [Information System on Graph Classes and their Inclusions (ISGCI)][isgci] for providing valuable resources, including graph names and classes.
 
-[paypal]: https://www.paypal.me/mogproject/5
+[paypal]: https://www.paypal.me/mogprojectjp/500
 [isgci]: https://www.graphclasses.org
